@@ -1,6 +1,7 @@
 - 👋 A Lebanese engineer living in France
-- 👀 I’m interested in the automotive industry :red_car:
-- 🌱 I’m currently specializing in Embedded Systems at ISAE-SUPAERO
+- Interested in the automotive industry :red_car:
+- Embedded Systems specialization (ISAE-SUPAERO)
+- Electro Mechanical Engineering (ESIB)
 - 📫 josephmsaed@hotmail.com
 
 <!---
