@@ -4,8 +4,9 @@
 - Electro Mechanical Engineering (ESIB)
 - 📫 josephmsaed@hotmail.com
   
-[![LinkedIn Logo](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg)](https://www.linkedin.com/in/joseph-msaed/)
-
+<a href="https://www.linkedin.com/in/your-linkedin-profile" target="https://www.linkedin.com/in/joseph-msaed">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn Logo" width="20" height="20">
+</a>
 
 <!---
 josephmsaed/josephmsaed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
