@@ -4,8 +4,8 @@
 - Electro Mechanical Engineering (ESIB)
 - 📫 josephmsaed@hotmail.com
   
-<a href="https://www.linkedin.com/in/your-linkedin-profile" target="https://www.linkedin.com/in/joseph-msaed">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn Logo" width="20" height="20">
+<a href="https://www.linkedin.com/in/joseph-msaed/" target="_blanc">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn Logo" width="50" height="50">
 </a>
 
 <!---
