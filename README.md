@@ -3,9 +3,7 @@
 - Embedded Systems specialization (ISAE-SUPAERO)
 - Electro Mechanical Engineering (ESIB)
 - 📫 josephmsaed@hotmail.com
-
-Connect with me on LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joseph-msaed/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue?style=flat-square&logo=linkedin)]](https://www.linkedin.com/in/joseph-msaed/)
 
 
 <!---
